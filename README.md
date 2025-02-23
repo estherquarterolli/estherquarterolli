@@ -59,8 +59,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/estherquarterolli/estherquarterolli/output/snake.svg" alt="Snake animation" />
-
-###
