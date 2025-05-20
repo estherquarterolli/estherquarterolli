@@ -54,6 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/estherquarterolli/estherquarterolli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/estherquarterolli/estherquarterolli/snake.svg" alt="Snake animation" />
 
 ###
