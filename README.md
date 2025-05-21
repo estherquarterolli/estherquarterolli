@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="left">⋆.˚🐍 GitHub Snake Animation</h2>
+<h2 align="left">⋆.˚🐍 Commits</h2>
 
 ###
 
