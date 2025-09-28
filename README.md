@@ -65,10 +65,3 @@
 
 ###
 
-<h2 align="left">⋆.˚🐍 Commits</h2>
-
-###
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/estherquarterolli/estherquarterolli/output/snake.svg" alt="Snake animation" />
-</p>
